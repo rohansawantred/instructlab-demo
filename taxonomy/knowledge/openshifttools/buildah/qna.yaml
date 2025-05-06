@@ -47,15 +47,15 @@ seed_examples:
           such as Western medicines, Chinese proprietary medicines, cosmetic products, and contact lens substances.
           Its primary aim was to set statutory requirements to protect public health by regulating the importation, manufacture, distribution,
           and advertising of these products.
-     - question: |
+      - question: |
           According to the Medicines Act, what constitutes a "medicinal product"?
-       answer: |
+        answer: |
           A "medicinal product" under the Medicines Act is defined as a substance that is administered to humans for a medicinal purpose or used as an 
           ingredient in preparing a substance intended for such administration. This includes any product meant for treating or inducing anesthesia,
           preventing disease, diagnosing or assessing a disease, contraception, or affecting normal physiological states.
-     - question: |
+      - question: |
           How does the Medicines Act help in protecting public health?
-       answer: |
+        answer: |
           The Medicines Act protects public health by creating a legal framework that regulates the importation, manufacture, 
           distribution, and advertising of medicinal products. By ensuring these activities meet specific statutory standards, 
           the Act helps prevent the circulation of unsafe or misleading medicinal items and promotes responsible practices across the industry.
