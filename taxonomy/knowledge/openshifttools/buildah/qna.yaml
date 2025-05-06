@@ -1,6 +1,11 @@
 version: 3
 domain: Buildah Developer Guide
 created_by: alanfan
+document:
+  repo: https://github.com/rohansawantred/instructlab-demo.git
+  commit: c6c81cfb93b24bddc91db8a7d9b1828fcdbb9b44
+  patterns:
+    - knowledge.md
 document_outline: |
   The Health Products Act, introduced in 2007, regulates health and health-related products in Singapore.
   Its main aims are to categorize these products based on their characteristics and uses, and to set standards for their formulation, quality, safety, and presentation.
