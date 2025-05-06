@@ -28,3 +28,135 @@ seed_examples:
         answer: |
            The main party in charge is the Health Science  Authority ('HAS'),
            which  is  the regulator of health products  in Singapore and is responsible for its administration and enforcement.
+  - context: |
+      The ' Medicines Act ' was gazetted in 1977 to provide a comprehensive control of all aspects of dealings in medicinal and its 
+      related products (e.g. Western medicines, Chinese proprietary medicines, cosmetic products, contact lens substances). 
+      The Act provides the main framework for the legal control of the importation, manufacture, distribution and advertising of
+      medicinal products, thereby setting the basic statutory requirements necessary for the protection of the public health.
+      Under the Medicines Act, a medicinal product refers to a substance that is administered to humans for a medicinal purpose
+      or used as an ingredient in the preparation of a substance to be administered to humans for a medicinal purpose.
+      'Medicinal purposes' refer to treating or inducing anesthesia, preventing disease, diagnosing or determining the 
+      extent or degree of a disease, contraception, or to prevent or interfere with the normal operation of a physiological state or condition.
+      For the purposes of the Medicines Act numerous orders and regulations were enacted, e.g. Medicines (Advertisement) (Exemption) Order,
+      Medicines (Export Licence for Psychotropic Substances) Regulations and Medicines (Labelling of Chinese Proprietary Medicines) Regulations.
+    questions_and_answers:
+      - question: |
+          What was the main purpose of gazetting the Medicines Act in 1977?
+        answer: |
+          The Medicines Act was gazetted in 1977 to establish comprehensive legal control over all aspects of dealings in medicinal and related products, 
+          such as Western medicines, Chinese proprietary medicines, cosmetic products, and contact lens substances.
+          Its primary aim was to set statutory requirements to protect public health by regulating the importation, manufacture, distribution,
+          and advertising of these products.
+     - question: |
+          According to the Medicines Act, what constitutes a "medicinal product"?
+       answer: |
+          A "medicinal product" under the Medicines Act is defined as a substance that is administered to humans for a medicinal purpose or used as an 
+          ingredient in preparing a substance intended for such administration. This includes any product meant for treating or inducing anesthesia,
+          preventing disease, diagnosing or assessing a disease, contraception, or affecting normal physiological states.
+     - question: |
+          How does the Medicines Act help in protecting public health?
+       answer: |
+          The Medicines Act protects public health by creating a legal framework that regulates the importation, manufacture, 
+          distribution, and advertising of medicinal products. By ensuring these activities meet specific statutory standards, 
+          the Act helps prevent the circulation of unsafe or misleading medicinal items and promotes responsible practices across the industry.
+  - context: |
+      | 1. ACRA   | Accounting Corporate Regulatory Authority         |
+      |-----------|---------------------------------------------------|
+      | 2. ACT    | Approved Cyber Trader                             |
+      | 3. AGC    | Attorney General Chambers of Singapore            |
+      | 4. AIS    | Approved International Shipping Enterprise Scheme |
+      | 5. AMD    | Advance Medical Directive                         |
+      | 6. ASEAN  | Association of South East Asian Nations           |
+      | 7. CCS    | Competition Commission Singapore                  |
+      | 8. CDE    | Centre for Drug Evaluation                        |
+      | 9. CME    | Continuing Medical Education                      |
+      | 10. CPA   | Customer Protection Act                           |
+      | 11. CPF   | Central Provident Fund                            |
+      | 12. CPA   | Centre for Pharmaceutical Administration          |
+      | 13. CSI   | Cancer Science Institute                          |
+      | 14. DAC   | Disease Awareness Campaign                        |
+      | 15. DOS   | Singapore Department of Statistics                |
+      | 16. DTD   | Double Tax Deduction                              |
+      | 17. EDB   | Economic Development Board                        |
+      | 18. ETA   | Electronic transactions Act                       |
+      | 19. GDA   | Generic Drug Application                          |
+      | 20. GIST  | German Institute of Science and Technology        |
+      | 21. GTP   | Global Trader Program                             |
+      | 22. HOTA  | Human Organ Transplant Act                        |
+      | 23. HPB   | Health Promotion Board                            |
+      | 24. HSA   | Health Science Authority                          |
+      | 25. IAEA  | International Atomic Energy Agency                |
+      | 26. ICA   | Immigration & Checkpoint Authority                |
+      | 27. IDA   | Infectious Diseases Act                           |
+      | 28. IP    | Intellectual Property                             |
+      | 29. IRAS   | Inland Revenue Authority of Singapore                 |
+      |------------|-------------------------------------------------------|
+      | 30. LTA    | Land Transportation Authority                         |
+      | 31. MAS    | Monetary Authority of Singapore                       |
+      | 32. MOH    | Ministry of Health                                    |
+      | 33. MOST   | Ministry of Science and Technology                    |
+      | 34. HPB    | Health Promotion Board                                |
+      | 35. MAV    | Major Variation Application                           |
+      | 36. MIV    | Minor Variation Application                           |
+      | 37. MTERA  | Medical Therapy Education Research Act                |
+      | 38. NDA    | New Drug Application                                  |
+      | 39. NEA    | National Environment Agency                           |
+      | 40. NRD    | National Registry of Diseases                         |
+      | 41. NUH    | National University Hospital                          |
+      | 42. PHMC   | Private Hospitals and Medical Clinics                 |
+      | 43. PMIS   | Private Medical Insurance Scheme                      |
+      | 44. PRA    | Pharmacists Registration Act                          |
+      | 45. PRISM  | Pharmaceutical Regulatory and Information System      |
+      | 46. R&D    | Research and Development                              |
+      | 47. PTC    | Patent System                                         |
+      | 48. RO     | Representative Office                                 |
+      | 49. SGH    | Singapore General Hospital                            |
+      | 50. SIAC   | Singapore International Arbitration Centre            |
+      | 51. SIC    | Securities Industry Council                           |
+      | 52. SICC   | Singapore International Chamber of Commerce           |
+      | 53. SMC    | Singapore Medical Council                             |
+      | 54. TCM    | Traditional Chinese Medicine                          |
+      | 55. TRIPS  | Trade-Related Aspects of Intellectual Property Rights |
+      | 56. WIPO   | World Intellectual Property Organization              |
+      | 57. WSH    | Workplace Safety and Health                           |
+    questions_and_answers:
+     - question: |
+         What is the role of ACRA in Singapore?
+       answer: |
+         ACRA, which stands for the Accounting and Corporate Regulatory Authority, is responsible for overseeing business registration, financial reporting, and corporate governance in Singapore. It ensures that companies comply with statutory requirements and promotes a transparent business environment.
+     - question: |
+         How does the Approved Cyber Trader (ACT) designation benefit businesses?
+       answer: |
+         The Approved Cyber Trader (ACT) designation recognizes businesses that engage in substantial trading through electronic means. It typically allows for certain tax incentives or regulatory support, enhancing the competitiveness of digital commerce companies.
+     - question: |
+         Why is the Advance Medical Directive (AMD) significant in healthcare planning?
+       answer: |
+         The Advance Medical Directive (AMD) allows individuals to legally state their wishes to decline extraordinary life-sustaining treatment in the event they become terminally ill and unconscious. This ensures that their end-of-life care preferences are respected.
+  - context: |
+      | National Cancer Centre                             | 11 Hospital Drive Singapore 169610 Tel: (65) 6436 8000 Fax: (65) 6225 6283 Website: www.nccs.com.sg                             |
+      |----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+      | National Dental Centre                             | 5 Second Hospital Avenue Singapore 168938 Tel: (65) 6324 8910 Website: www.ndc.com.sg                                           |
+      | National Healthcare Group                          | 6 Commonwealth Lane, Level 6, GMTI Building, Singapore 149547 Tel: (65) 6496 6000 Fax: (65) 6496 6870 Website: www.nhg.com.sg   |
+      | National University Health System                  | 1E, Kent Ridge Road Singapore 119228 Telephone: (65) 6779 5555 Facsimile: (65) 6775 0913 Website: www.nuhs.edu.sg               |
+      | Pharmaceutical Society of Singapore                | Alumni Medical Centre, 2nd Level 2 College Road Singapore 169850 Tel: (65) 62211136 Fax: (65) 62230969 Website: www.pss.org.sg  |
+      | Singapore Association of Pharmaceutical Industries | 151 Chin Swee Road #02-13A/ 14 Manhattan House Singapore 169876 Tel: (65) 6738 0966 Fax: (65) 67380977 Website: www.sapi.org.sg |
+      | Singhealth Centre for Health Services Research   | 31 Third Hospital Avenue #03-03 Bowyer Block C Singapore 168753 Tel: (65) 6225 0488 Fax: (65) 6557 2138                                          |
+      |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+      | Singapore Clinical Research Institute (SCRI)     | 31 Biopolis Way, Nanos #02-01 Singapore 138669 Tel: (65) 65088300 Fax: (65) 65088317 Website: www.scri.edu.sg                                    |
+      | Singapore Dental Association                     | 2 College Road Level 2 Alumni Association Singapore 169850 Tel : (65) 6220 2588 Fax : (65) 6224 7967 Website: cms.sda.org.sg                     |
+      | Singapore Dental Health Foundation               | 2 College Rd Singapore 169850 Website: www.dentalhealth.org.sg                                                                                   |
+      | Singapore Institute for Clinical Sciences        | Brenner Centre for Molecular Medicine 30 Medical Drive, Singapore 117609 Tel: (65) 6407 0100 Fax: (65) 6776 6840 Website: www.sics.a-star.edu.sg |
+      | Singapore Medical Association                    | 2 College Road, Level 2, Alumni Medical Centre Singapore 169850 Tel: (65) 6223 1264 Fax: (65) 6224 7827                                          |
+    questions_and_answers:
+      - question: |
+          What is the full address and contact information of the National Cancer Centre in Singapore?
+        answer: |
+          The National Cancer Centre in Singapore is located at 11 Hospital Drive, Singapore 169610. The telephone number is (65) 6436 8000 and the fax number is (65) 6225 6283. More information can be found on their website: www.nccs.com.sg.
+      - question: |
+          Which institution is based at 1E Kent Ridge Road and what is its primary contact number?
+        answer: |
+          The institution located at 1E Kent Ridge Road, Singapore 119228 is the National University Health System. Its primary telephone number is (65) 6779 5555.
+      - question: |
+          Which organizations are located at 2 College Road, and what similarities can be found in their contact details?
+        answer: |
+          The organizations located at 2 College Road are the Pharmaceutical Society of Singapore, the Singapore Dental Association, the Singapore Dental Health Foundation, and the Singapore Medical Association. A similarity among their contact details is that they all share the same street address, and most are located on Level 2 of the Alumni Medical Centre. Additionally, their fax numbers start with (65) 622, indicating a similar telephone exchange region.
