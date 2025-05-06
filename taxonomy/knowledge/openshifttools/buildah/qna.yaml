@@ -2,7 +2,9 @@ version: 3
 domain: Buildah Developer Guide
 created_by: alanfan
 document_outline: |
-  Buildah is a tool for creating OCI-compliant container images. Also, Buildah provides the capability to create a container based on a particular container image, update the contents of that container, and the  n create a brand new container image based on the altered container. 
+  The Health Products Act, introduced in 2007, regulates health and health-related products in Singapore.
+  Its main aims are to categorize these products based on their characteristics and uses, and to set standards for their formulation, quality, safety, and presentation.
+  The Health Sciences Authority (HSA) is the main regulatory body responsible for enforcing the Act, overseeing the manufacture, import, supply, advertising, and promotion of health products.
 seed_examples:
   - context: |
       The ' Health Products Act ' was introduced in 2007. As the name suggests the Health  Products  Act  regulates  health  products  and  health-related  products. 
