@@ -1,0 +1,5 @@
+version: 3
+domain: Buildah Developer Guide
+created_by: alanfan
+document_outline: |
+  Buildah is a tool for creating OCI-compliant container images. Also, Buildah provides the capability to create a container based on a particular container image, update the contents of that container, and the  n create a brand new container image based on the altered container. 
