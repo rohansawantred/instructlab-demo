@@ -165,3 +165,34 @@ seed_examples:
           Which organizations are located at 2 College Road, and what similarities can be found in their contact details?
         answer: |
           The organizations located at 2 College Road are the Pharmaceutical Society of Singapore, the Singapore Dental Association, the Singapore Dental Health Foundation, and the Singapore Medical Association. A similarity among their contact details is that they all share the same street address, and most are located on Level 2 of the Alumni Medical Centre. Additionally, their fax numbers start with (65) 622, indicating a similar telephone exchange region.
+  - context: |
+      SGH is the largest hospital in Singapore in a campus-like plant. There is a new
+      SGH 20 Million clinical research unit on SGH Campus. The Clinical Trials
+      Resource Centre (CTRC) within SGH was set up in May 1999 as a one-stop
+      resource centre to promote and co-ordinate high quality clinical trials in SGH.
+      CTRC provides advice to Principal Investigators and their Sponsors on the policies
+      and guidelines for conducting clinical trials whether academic or sponsored.
+      Members:
+      - Health Sciences Authority (HSA)
+      - DUKE NUS – graduate medical school
+      - Ministry of Health
+      - National Cancer Centre
+      - National Neuroscience Institute
+      - National Heart Centre
+      - Singapore General Hospital (SGH)
+      - Singapore National Eye Centre
+      - Sing Health
+      - Roche Singapore Pte Ltd
+    questions_and_answers:
+    - question: |
+        What is the purpose of the Clinical Trials Resource Centre (CTRC) at Singapore General Hospital (SGH)?
+      answer: |
+        The purpose of the Clinical Trials Resource Centre (CTRC) at Singapore General Hospital (SGH) is to serve as a one-stop resource center that promotes and coordinates high-quality clinical trials. It provides guidance and advice to Principal Investigators and their Sponsors on the policies and guidelines for conducting both academic and sponsored clinical trials.
+    - question: |
+        When was the Clinical Trials Resource Centre (CTRC) at SGH established, and why is its founding significant?
+      answer: |
+        The Clinical Trials Resource Centre (CTRC) at SGH was established in May 1999. Its founding is significant because it centralized and streamlined support for clinical trials within SGH, thereby enhancing the quality and coordination of research activities conducted at the hospital.
+    - question: |
+        What role does the SGH $20 million clinical research unit play within the SGH campus?
+      answer: |
+        The SGH $20 million clinical research unit serves as a major facility within the SGH campus dedicated to clinical research. It likely supports infrastructure and resources for advanced clinical studies, contributing to the hospital's mission of promoting high-quality clinical research.
