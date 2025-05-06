@@ -3,3 +3,26 @@ domain: Buildah Developer Guide
 created_by: alanfan
 document_outline: |
   Buildah is a tool for creating OCI-compliant container images. Also, Buildah provides the capability to create a container based on a particular container image, update the contents of that container, and the  n create a brand new container image based on the altered container. 
+seed_examples:
+  - context: |
+      The ' Health Products Act ' was introduced in 2007. As the name suggests the Health  Products  Act  regulates  health  products  and  health-related  products. 
+      The main purposes of this Act are to provide for the categorisation of health products in  accordance  with  their  different  characteristics  and  uses  and  
+      to  prescribe  the standards for health products in relation to their formulation, composition, design specification, quality, safety, efficacy and presentation.
+      After defining "health product" and "health-related purpose" the Act describes the various parties involved in administering and enforcing the controls on manufacture, 
+      import and supply and on the advertising and promotion of health products under this piece of legislation. The main party in charge is the Health Science  Authority ('HAS'),
+      which  is  the regulator of health products  in Singapore and is responsible for its administration and enforcement.
+    questions_and_answers:
+      - question: |
+           When was ' Health Products Act ' introducted ? 
+        answer: |
+           The ' Health Products Act ' was introduced in 2007. As the name suggests the Health  Products  Act  regulates  health  products  and  health-related  products. 
+      - question: |
+           What is the main purposes of ' Health Products Act '?
+        answer: |
+           The main purposes of this Act are to provide for the categorisation of health products in  accordance  with  their  different  characteristics  and  uses  and  
+           to  prescribe  the standards for health products in relation to their formulation, composition, design specification, quality, safety, efficacy and presentation.
+      - question: |
+           Who is the main party in charge in Singapore?
+        answer: |
+           The main party in charge is the Health Science  Authority ('HAS'),
+           which  is  the regulator of health products  in Singapore and is responsible for its administration and enforcement.
